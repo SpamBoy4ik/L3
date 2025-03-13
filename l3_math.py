@@ -5,8 +5,8 @@ diagonal_cm = radius_cm * 2
 
 circle_length_cm = 2 * pi * radius_cm
 circle_length_m = circle_length_cm / 100
-print(f"Длина окружности (см): {circle_length_cm}") # вопрос в разнице оформления (f или через ,)
-print("Длина окружности (м):", circle_length_m)
+print(f"Длина окружности (см): {circle_length_cm}")
+print(f"Длина окружности (м): {circle_length_m}")
 
 circle_area_cm = pi * radius_cm * radius_cm
 circle_area_m = circle_area_cm / 10000
